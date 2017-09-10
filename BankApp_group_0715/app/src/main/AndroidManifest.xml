@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.group_0715.bankapp_group_0715">
+
+    <application
+
+        android:name="com.example.group_0715.bankapp_group_0715.mainactivity.ApplicationMain"
+
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".mainactivity.Main">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".firstrunactivity.FirstRunActivity"></activity>
+        <activity android:name=".startupactivity.WelcomeActivity"></activity>
+        <activity android:name=".loginactivity.LoginActivity"></activity>
+        <activity android:name=".transactionactivity.DepositActivity"></activity>
+        <activity android:name=".transactionactivity.WithdrawActivity"></activity>
+        <activity android:name=".transactionactivity.ViewCustomerAccountsActivity"></activity>
+
+        <activity android:name=".customeractivity.CustomerAccountDetailsActivity"></activity>
+        <activity android:name=".customeractivity.CustomerHelpActivity"></activity>
+        <activity android:name=".customeractivity.CustomerHomeActivity"></activity>
+
+        <activity android:name=".telleractivity.TellerAuthenticateCustomerActivity"></activity>
+        <activity android:name=".telleractivity.TellerHelpActivity"></activity>
+        <activity android:name=".telleractivity.TellerHomeActivity"></activity>
+        <activity android:name=".telleractivity.TellerMakeAccountActivity"></activity>
+        <activity android:name=".telleractivity.TellerMakeUserActivity"></activity>
+        <activity android:name=".telleractivity.TellerTerminalActivity"></activity>
+        <activity android:name=".telleractivity.TellerAccountDetailsActivity"></activity>
+
+        <activity android:name=".adminactivity.AdminHelpActivity"></activity>
+        <activity android:name=".adminactivity.AdminHomeActivity"></activity>
+        <activity android:name=".adminactivity.AdminMakeAdminActivity"></activity>
+        <activity android:name=".adminactivity.AdminMakeTellerActivity"></activity>
+        <activity android:name=".adminactivity.AdminTerminalActivity"></activity>
+        <activity android:name=".adminactivity.AdminViewAllUsers"></activity>
+        <activity android:name=".adminactivity.AdminViewAllAccountsActivity"></activity>
+        <activity android:name=".adminactivity.AdminViewUserAccountsActivity"></activity>
+        <activity android:name=".adminactivity.AdminSerializeOrDeserializeDatabaseActivity"></activity>
+
+
+        <activity android:name=".filteractivity.FilterUserActivity"></activity>
+        <activity android:name=".filteractivity.FilterAccountActivity"></activity>
+        <activity android:name=".filteractivity.FilterMessageActivity"></activity>
+
+        <activity android:name=".firstrunactivity.ChooseInterestActivity"></activity>
+        <activity android:name=".firstrunactivity.MakeFirstAdminActivity"></activity>
+
+        <activity android:name=".telleractivity.TellerMakeMessagesActivity"></activity>
+        <activity android:name=".adminactivity.AdminViewOtherOptions"></activity>
+        <activity android:name=".adminactivity.AdminPersonalMessageActivity"></activity>
+        <activity android:name=".adminactivity.AdminViewPersonalMessageActivity"></activity>
+        <activity android:name=".adminactivity.AdminMakeUserSelectionActivity"></activity>
+        <activity android:name=".adminactivity.AdminPromoteTellerActivity"></activity>
+        <activity android:name=".adminactivity.AdminViewUserDetailsActivity"></activity>
+        <activity android:name=".adminactivity.AdminMakeMessageActivity"></activity>
+        <activity android:name=".adminactivity.AdminViewAnyMessageActivity"></activity>
+
+        <activity android:name=".messageactivity.ViewMessages"></activity>
+
+    </application>
+
+</manifest>

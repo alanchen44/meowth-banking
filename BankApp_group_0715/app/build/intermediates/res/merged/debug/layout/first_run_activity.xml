@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/meowth_banking"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:id="@+id/bajiLogo"
+            android:elevation="5dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:text="@string/welcomeBajiBanking"
+            android:padding="20dp"
+            android:id="@+id/welcomeBaji"
+            android:elevation="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_gravity="center"
+            android:text="@string/createAccountFirstRun"
+            android:padding="20dp"
+            android:id="@+id/welcomeBaji2"
+            android:elevation="5dp"/>
+
+        <Button
+            android:id="@+id/createAdminFirstRunButton"
+            android:textSize="20sp"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:layout_marginTop="9dip"
+            android:layout_marginBottom="-9dip"
+            android:layout_gravity="center"
+            android:onClick="createAdminFirstRun"
+            android:text="@string/createAdminFirstRun" />
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

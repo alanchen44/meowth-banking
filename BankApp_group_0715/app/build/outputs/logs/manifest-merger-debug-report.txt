@@ -1,0 +1,249 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:2:1-74:12
+	package
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:3:5-56
+		INJECTED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:5:5-72:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Alan\.android\build-cache\2e031de8cbef28c676a3fcbd1b51bb90615a7221\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Alan\.android\build-cache\d5b22df767f004c5b3def6fde213fdbdd4181b81\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Alan\.android\build-cache\a466824e157ef3ae5a650f8014f354e66acba9d3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Alan\.android\build-cache\54be777ec249ad831cbd2f353f54a09cb4e8627a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Alan\.android\build-cache\6ca04ce1959d1065f0b64ff44c9c8efc5b9ee294\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Alan\.android\build-cache\131af4ad9e319c3258cb0cfebdf3bba67c4968f1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Alan\.android\build-cache\9e044b0df5c28c1651d2065762cbfb97ee3ea5bc\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Alan\.android\build-cache\340b4e7ae94c6412b92f5adf9c700157d2cc1877\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Alan\.android\build-cache\88a69ee36a703e105111d890fe310898919058ac\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Alan\.android\build-cache\66ba65a9a6099c84e9e518788ebadb8ea9753950\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:7:9-94
+activity#com.example.group_0715.bankapp_group_0715.mainactivity.Main
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:15:19-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.group_0715.bankapp_group_0715.firstrunactivity.FirstRunActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:23:9-80
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:23:19-68
+activity#com.example.group_0715.bankapp_group_0715.startupactivity.WelcomeActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:24:9-78
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:24:19-66
+activity#com.example.group_0715.bankapp_group_0715.loginactivity.LoginActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:25:9-74
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:25:19-62
+activity#com.example.group_0715.bankapp_group_0715.transactionactivity.DepositActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:26:9-82
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:26:19-70
+activity#com.example.group_0715.bankapp_group_0715.transactionactivity.WithdrawActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:27:9-83
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:27:19-71
+activity#com.example.group_0715.bankapp_group_0715.transactionactivity.ViewCustomerAccountsActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:28:9-95
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:28:19-83
+activity#com.example.group_0715.bankapp_group_0715.customeractivity.CustomerAccountDetailsActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:30:9-94
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:30:19-82
+activity#com.example.group_0715.bankapp_group_0715.customeractivity.CustomerHelpActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:31:9-84
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:31:19-72
+activity#com.example.group_0715.bankapp_group_0715.customeractivity.CustomerHomeActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:32:9-84
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:32:19-72
+activity#com.example.group_0715.bankapp_group_0715.telleractivity.TellerAuthenticateCustomerActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:34:9-96
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:34:19-84
+activity#com.example.group_0715.bankapp_group_0715.telleractivity.TellerHelpActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:35:9-80
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:35:19-68
+activity#com.example.group_0715.bankapp_group_0715.telleractivity.TellerHomeActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:36:9-80
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:36:19-68
+activity#com.example.group_0715.bankapp_group_0715.telleractivity.TellerMakeAccountActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:37:9-87
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:37:19-75
+activity#com.example.group_0715.bankapp_group_0715.telleractivity.TellerMakeUserActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:38:9-84
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:38:19-72
+activity#com.example.group_0715.bankapp_group_0715.telleractivity.TellerTerminalActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:39:9-84
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:39:19-72
+activity#com.example.group_0715.bankapp_group_0715.telleractivity.TellerAccountDetailsActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:40:9-90
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:40:19-78
+activity#com.example.group_0715.bankapp_group_0715.adminactivity.AdminHelpActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:42:9-78
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:42:19-66
+activity#com.example.group_0715.bankapp_group_0715.adminactivity.AdminHomeActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:43:9-78
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:43:19-66
+activity#com.example.group_0715.bankapp_group_0715.adminactivity.AdminMakeAdminActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:44:9-83
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:44:19-71
+activity#com.example.group_0715.bankapp_group_0715.adminactivity.AdminMakeTellerActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:45:9-84
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:45:19-72
+activity#com.example.group_0715.bankapp_group_0715.adminactivity.AdminTerminalActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:46:9-82
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:46:19-70
+activity#com.example.group_0715.bankapp_group_0715.adminactivity.AdminViewAllUsers
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:47:9-78
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:47:19-66
+activity#com.example.group_0715.bankapp_group_0715.adminactivity.AdminViewAllAccountsActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:48:9-89
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:48:19-77
+activity#com.example.group_0715.bankapp_group_0715.adminactivity.AdminViewUserAccountsActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:49:9-90
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:49:19-78
+activity#com.example.group_0715.bankapp_group_0715.adminactivity.AdminSerializeOrDeserializeDatabaseActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:50:9-104
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:50:19-92
+activity#com.example.group_0715.bankapp_group_0715.filteractivity.FilterUserActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:53:9-80
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:53:19-68
+activity#com.example.group_0715.bankapp_group_0715.filteractivity.FilterAccountActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:54:9-83
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:54:19-71
+activity#com.example.group_0715.bankapp_group_0715.filteractivity.FilterMessageActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:55:9-83
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:55:19-71
+activity#com.example.group_0715.bankapp_group_0715.firstrunactivity.ChooseInterestActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:57:9-86
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:57:19-74
+activity#com.example.group_0715.bankapp_group_0715.firstrunactivity.MakeFirstAdminActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:58:9-86
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:58:19-74
+activity#com.example.group_0715.bankapp_group_0715.telleractivity.TellerMakeMessagesActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:60:9-88
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:60:19-76
+activity#com.example.group_0715.bankapp_group_0715.adminactivity.AdminViewOtherOptions
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:61:9-82
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:61:19-70
+activity#com.example.group_0715.bankapp_group_0715.adminactivity.AdminPersonalMessageActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:62:9-89
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:62:19-77
+activity#com.example.group_0715.bankapp_group_0715.adminactivity.AdminViewPersonalMessageActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:63:9-93
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:63:19-81
+activity#com.example.group_0715.bankapp_group_0715.adminactivity.AdminMakeUserSelectionActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:64:9-91
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:64:19-79
+activity#com.example.group_0715.bankapp_group_0715.adminactivity.AdminPromoteTellerActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:65:9-87
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:65:19-75
+activity#com.example.group_0715.bankapp_group_0715.adminactivity.AdminViewUserDetailsActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:66:9-89
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:66:19-77
+activity#com.example.group_0715.bankapp_group_0715.adminactivity.AdminMakeMessageActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:67:9-85
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:67:19-73
+activity#com.example.group_0715.bankapp_group_0715.adminactivity.AdminViewAnyMessageActivity
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:68:9-88
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:68:19-76
+activity#com.example.group_0715.bankapp_group_0715.messageactivity.ViewMessages
+ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:70:9-75
+	android:name
+		ADDED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml:70:19-63
+uses-sdk
+INJECTED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Alan\.android\build-cache\2e031de8cbef28c676a3fcbd1b51bb90615a7221\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Alan\.android\build-cache\d5b22df767f004c5b3def6fde213fdbdd4181b81\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Alan\.android\build-cache\a466824e157ef3ae5a650f8014f354e66acba9d3\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Alan\.android\build-cache\54be777ec249ad831cbd2f353f54a09cb4e8627a\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Alan\.android\build-cache\6ca04ce1959d1065f0b64ff44c9c8efc5b9ee294\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Alan\.android\build-cache\131af4ad9e319c3258cb0cfebdf3bba67c4968f1\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Alan\.android\build-cache\9e044b0df5c28c1651d2065762cbfb97ee3ea5bc\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Alan\.android\build-cache\340b4e7ae94c6412b92f5adf9c700157d2cc1877\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Alan\.android\build-cache\88a69ee36a703e105111d890fe310898919058ac\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Alan\.android\build-cache\66ba65a9a6099c84e9e518788ebadb8ea9753950\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Alan\.android\build-cache\2e031de8cbef28c676a3fcbd1b51bb90615a7221\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alan\Desktop\BankApp_group_0715-20170808T211029Z-001\BankApp_group_0715\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Alan\.android\build-cache\2e031de8cbef28c676a3fcbd1b51bb90615a7221\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Alan\.android\build-cache\d5b22df767f004c5b3def6fde213fdbdd4181b81\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Alan\.android\build-cache\a466824e157ef3ae5a650f8014f354e66acba9d3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Alan\.android\build-cache\54be777ec249ad831cbd2f353f54a09cb4e8627a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Alan\.android\build-cache\6ca04ce1959d1065f0b64ff44c9c8efc5b9ee294\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Alan\.android\build-cache\131af4ad9e319c3258cb0cfebdf3bba67c4968f1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Alan\.android\build-cache\9e044b0df5c28c1651d2065762cbfb97ee3ea5bc\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Alan\.android\build-cache\340b4e7ae94c6412b92f5adf9c700157d2cc1877\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Alan\.android\build-cache\88a69ee36a703e105111d890fe310898919058ac\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Alan\.android\build-cache\2e031de8cbef28c676a3fcbd1b51bb90615a7221\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Alan\.android\build-cache\2e031de8cbef28c676a3fcbd1b51bb90615a7221\output\AndroidManifest.xml:26:9-47

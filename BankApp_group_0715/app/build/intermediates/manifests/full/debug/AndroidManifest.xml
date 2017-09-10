@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.group_0715.bankapp_group_0715"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="24"
+        android:targetSdkVersion="25" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:name="com.example.group_0715.bankapp_group_0715.mainactivity.ApplicationMain"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.group_0715.bankapp_group_0715.mainactivity.Main" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.group_0715.bankapp_group_0715.firstrunactivity.FirstRunActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.startupactivity.WelcomeActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.loginactivity.LoginActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.transactionactivity.DepositActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.transactionactivity.WithdrawActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.transactionactivity.ViewCustomerAccountsActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.customeractivity.CustomerAccountDetailsActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.customeractivity.CustomerHelpActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.customeractivity.CustomerHomeActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.telleractivity.TellerAuthenticateCustomerActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.telleractivity.TellerHelpActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.telleractivity.TellerHomeActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.telleractivity.TellerMakeAccountActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.telleractivity.TellerMakeUserActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.telleractivity.TellerTerminalActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.telleractivity.TellerAccountDetailsActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.adminactivity.AdminHelpActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.adminactivity.AdminHomeActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.adminactivity.AdminMakeAdminActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.adminactivity.AdminMakeTellerActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.adminactivity.AdminTerminalActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.adminactivity.AdminViewAllUsers" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.adminactivity.AdminViewAllAccountsActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.adminactivity.AdminViewUserAccountsActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.adminactivity.AdminSerializeOrDeserializeDatabaseActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.filteractivity.FilterUserActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.filteractivity.FilterAccountActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.filteractivity.FilterMessageActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.firstrunactivity.ChooseInterestActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.firstrunactivity.MakeFirstAdminActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.telleractivity.TellerMakeMessagesActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.adminactivity.AdminViewOtherOptions" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.adminactivity.AdminPersonalMessageActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.adminactivity.AdminViewPersonalMessageActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.adminactivity.AdminMakeUserSelectionActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.adminactivity.AdminPromoteTellerActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.adminactivity.AdminViewUserDetailsActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.adminactivity.AdminMakeMessageActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.adminactivity.AdminViewAnyMessageActivity" />
+        <activity android:name="com.example.group_0715.bankapp_group_0715.messageactivity.ViewMessages" />
+    </application>
+
+</manifest>

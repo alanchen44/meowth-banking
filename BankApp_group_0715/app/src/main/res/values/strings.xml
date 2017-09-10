@@ -1,0 +1,273 @@
+<resources>
+    <string name="app_name">Meowth Banking</string>
+    <string name="app_name_old">BankApp_group_0715</string>
+
+    <string name="admin_word">Admin</string>
+    <string name="teller_word">Teller</string>
+    <string name="customer_word">Customer</string>
+    <string name="select_user_type">Please select a type of user:</string>
+
+    <string name="customer_login">Customer Login</string>
+    <string name="teller_login">Teller Login</string>
+    <string name="admin_login">Admin Login</string>
+
+    <string name="userInputText">Please enter your ID and password:</string>
+    <string name="userIdInput">ID</string>
+    <string name="userPasswordInput">Password</string>
+
+    <string name="backButton">Back</string>
+    <string name="loginButton">Login</string>
+
+    <string name="viewAccounts">View Accounts</string>
+    <string name="viewCustomerInstructions">Help</string>
+
+    <string name="helloUser">Hello, Find_Name!</string>
+
+    <string name="profile">Your Profile</string>
+    <string name="nameText">Name</string>
+    <string name="addressText">Address</string>
+    <string name="ageText">Age</string>
+
+    <string name="logoutButton">Log out</string>
+    <string name="accounts">Accounts</string>
+    <string name="listAccountsDescription">The list of accounts is shown below. Click on an account to view more details. </string>
+    <string name="accountDetails">Account Details</string>
+
+    <string name="balance">Current Balance: </string>
+    <string name="typeOfAcc">Account Type: </string>
+    <string name="accountId">Account ID: </string>
+    <string name="interestRate">Interest Rate: </string>
+
+    <string name="deposit">Make a Deposit</string>
+    <string name="withdraw">Make a Withdrawal</string>
+    <string name="withdrawTitle">Withdraw</string>
+    <string name="depositTitle">Deposit</string>
+
+    <string name="amount">Enter Amount</string>
+    <string name="amountPrompt">Enter the deposit amount for this account. Input must end with two decimal places (Eg. 12.00)</string>
+    <string name="amountPromptWithdraw">Enter the withdraw amount for this account. Input must end with two decimal places (Eg. 12.00)</string>
+
+
+    <string name="namePrompt">Enter name</string>
+    <string name="agePrompt">Enter age</string>
+    <string name="addressPrompt">Enter address</string>
+
+    <string name="authenticate">Authenticate User</string>
+    <string name="deauthenticate">Deauthenticate User</string>
+    <string name="makeUser">Make new user</string>
+    <string name="useTerminal">Operate Teller Terminal</string>
+    <string name="terminal">Teller Terminal</string>
+
+    <string name="makeAccount">Make Account</string>
+    <string name="noServing">No customer is selected. Make account, view accounts, view messages and deauthenticate functions are disabled.</string>
+    <string name="terminalExit">Exit Terminal</string>
+
+    <string name="makeUserTitle">Create Customer</string>
+
+    <string name="makeAccountTitle">Create Account</string>
+
+    <string name="balanceText">Balance</string>
+    <string name="balancePrompt">Enter Balance</string>
+
+    <string name="accountTypeText">Account Type</string>
+
+    <string name="tellerHelpTitle">Teller Help</string>
+	<string name="tellerHelpData">Teller help data</string>
+
+    <string name="tfsaRestriction">WARNING: A TFSA with a balance under $1000 will automatically become a Savings account.</string>
+    <string name="tfsaMinAmount">NOTE: TFSA must have a minimum balance of $1000.</string>
+    <string name="doubleDecimal">Tip: Balance must end with two decimal places.</string>
+
+
+    <string name="adminHelpTitle">Admin Help</string>
+    <string name="adminTerminalTitle">Admin Terminal</string>
+    <string name="adminTerminal">Operate Admin Terminal</string>
+    
+    <string name="makeNewTeller">Make Teller</string>
+    <string name="makeNewAdmin">Make Admin</string>
+
+    <string name="viewUsers">View Users</string>
+    <string name="viewTotalBalance">View Total Balance</string>
+    <string name="promoteTeller">Promote Teller</string>
+
+    <string name="serialize">Serialize</string>
+    <string name="deserialize">Deserialize</string>
+
+    <string name="makeAdminTitle">Create Admin</string>
+    <string name="makeTellerTitle">Create Teller</string>
+
+    <string name="viewUsersTitle">View Users</string>
+
+    <string name="typeOfUser">Type of User</string>
+    <string name="typeOfAccount">Type of Account</string>
+
+    <string name="nameStartsWith">Name starts with</string>
+    <string name="addressStartsWith">Address starts with</string>
+
+    <string name="minAge">Minimum Age</string>
+    <string name="maxAge">Maximum Age</string>
+    <string name="minBalance">Minimum Balance</string>
+    <string name="maxBalance">Maximum Balance</string>
+
+    <string name="findById">Find by ID</string>
+    <string name="filterByName">Filter by Name</string>
+    <string name="filterByAddress">Filter by Address</string>
+
+    <string name="enterName">Enter name</string>
+    <string name="enterAge">Enter age</string>
+    <string name="enterBalance">Enter balance</string>
+
+    <string name="enterId">Enter ID</string>
+    <string name="enterCustomerId">Enter Customer ID</string>
+
+    <string name="filter">Filter</string>
+    <string name="find">Find</string>
+
+    <string name="userFilter">User Filter</string>
+    <string name="accountFilter">Account Filter</string>
+    <string name="resetFilter">Reset Filter</string>
+
+    <string name="users">Users</string>
+    <string name="adminViewUserGuide">Below are list of users. Click on a user to see their total balance and get information about their accounts.</string>
+
+    <string name="allAccounts">All Accounts</string>
+
+    <string name="totalBalance">Total Balance</string>
+    <string name="balanceOwingRestriction">NOTE: Balance owing accounts must have a negative or zero balance.</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="admins">Admins</string>
+    <string name="tellers">Tellers</string>
+
+    <string name="viewCustomers">View Customers</string>
+
+    <string name="promoteTellerPrompt">Please enter a valid teller ID</string>
+    <string name="enterTellerId">Enter teller ID</string>
+    <string name="promote">Promote</string>
+
+    <string name="userdetails">User Details</string>
+
+    <string name="passwordPrompt">Enter Password</string>
+
+    <string name="viewAdmins">View Admins</string>
+    <string name="viewTellers">View Tellers</string>
+    <string name="please_select_an_option">Please select an option:</string>
+    <string name="makeAdminTeller">Make Admin/Teller</string>
+    <string name="viewAdminsTellersCustomers">View Admins/Tellers/Customers</string>
+    <string name="serializeDeserializeDb">Serialize/Deserialize Database</string>
+    <string name="makeUserAdminMain">Make User/Admin</string>
+
+    <string name="welcomeBajiBanking">Welcome to Meowth Banking!</string>
+    <string name="createAccountFirstRun">You will now need to create an admin account. Please press the button to begin!</string>
+    <string name="createAdminFirstRun">Create Admin</string>
+    <string name="nextStep">Next</string>
+    <string name="chooseInterestRates">Choose Interest Rates</string>
+    <string name="chequingAccount">Chequing</string>
+    <string name="minMaxValues">Please note that the minimum value is 0 and the maximum value is 1</string>
+    <string name="savingsAccount">Savings </string>
+    <string name="finishDone">Finish</string>
+
+    <string name="messages">Messages</string>
+    <string name="viewMessages">View Messages</string>string>
+    <string name="message">Message</string>string>
+    <string name="tellermessage">View Teller Messages</string>string>
+    <string name="customermessage">View Customer Messages</string>string>
+    <string name="viewanymessage">View Any Message</string>string>
+
+    <string name="viewAnyMessageDescription">List of messages shown below. Please click on a message to view it.</string>
+    <string name="showViewed">Show Viewed</string>
+    <string name="hideViewed">Hide Viewed</string>
+
+
+    <string name="leaveMessage">Leave Message</string>
+    <string name="leaveMessageDescription">You may leave a message to any type of user (customers, tellers, admins).</string>
+    <string name="leaveMessageCustomerDescription">You may leave a message to any customer.</string>
+    <string name="leaveMessageForCustomer">Leave Message for Customer</string>
+    <string name="giveInterest">Give Interest</string>
+
+    <string name="addingMultipleRecipeints">If you would like to send a message to multiple recipients, enter their IDs in the ID box below, separated by commas. For example, to send a message to the user with ID 2 and user with ID 3, enter (spaces are optional): 2, 3</string>
+
+    <string name="messageTooLong">This message exceeds the 512 character limit.</string>
+
+
+    <string name="leavemessages">Leave a Message</string>string>
+    <string name="enterMessage">Enter Message</string>string>
+
+    <string name="viewmessages">View Personal Messages</string>string>
+
+    <string name="accName">Account Name</string>
+    <string name="accNameColon">Account Name: </string>
+
+    <string name="restrictedSavingMessage">NOTE: Customers are only allowed to view Restricted Saving accounts. Please see a teller if you would like to modify this account.</string>
+
+    <string name="submit">Submit</string>string>
+
+    <string name="otherOptions">Other Options</string>
+
+    <string name="userviewmessageinfo">Below are list of messages. Click on a message to view! .</string>
+    <string name="adminHelpText">Admins are the users that have the ability to access information about the bank and can manage the other users of the bank.\n\nThey can:\n \n\t- Create tellers and admins\n\t- View all users in the bank\n\t- View the banks total balance\n\t- Promote tellers to admins\n\t- Serialize and deserialize the database \n\nThese features can be accessed in the Admin terminal.</string>
+    <string name="tellerHelpText">Tellers have the ability to serve customers.\n\nIn order for the Teller to be able to have most of its functionality, it must authenticate a user in the Teller Terminal. Once a user is authenticated, then the teller is able to: \n\nThey can:\n\t- Make a deposit to an account\n\t- Make a withdrawal from an account\n\t- Check the balance of an account\n\t- List a customers accounts\n\t- View customer messages \n\nWhen there is no user authenticated, then the Teller can:\n\t- Authenticate a new user\n\t- Make a new user\n\t- Leave a message for a customer\n\t- Give interest to an account</string>
+    <string name="customerHelpText">Customers are the users of the bank who store their money into an account.\n\nThey can:\n \n\t- View their accounts\n\t- Make deposits and withdrawals (except for restrcited saving accounts)\n\nIn order for a customer to create new accounts, they should request access from a Teller who can help them with this.</string>
+    <string name="customerHelp">Customer Help</string>
+
+    <string name="messagesDisplayed">messages displayed</string>
+    <string name="messageDisplayed">message displayed</string>
+
+    <string name="messageFilter">Message Filter</string>
+    <string name="recipients">Recipient(s)</string>
+    <string name="enterIDs">Enter user ID(s)</string>
+    <string name="messageFilterDescription">Below are filter options. To set filter for multiple recipients, please enter their IDs separated by commas (spaces are optional). For example, to see messages sent to user with ID2 and user with ID3, enter: 2, 3</string>
+    <string name="maximumCharacters">Maximum Characters</string>
+    <string name="minimumCharacters">Minumum Characters</string>
+    <string name="enterAmount">Enter amount</string>
+    <string name="enterMessageID">Enter Message ID</string>
+
+
+
+    <string name="accountsDisplayed">accounts displayed</string>
+    <string name="accountDisplayed">account displayed</string>
+
+    <string name="Messages">Messages</string>
+    <string name="NumOfMessages">new messages</string>
+    <string name="messageHowTo">Below is a list of activities that have happened since you last checked your messages. These messages will disappear once you leave this page.</string>
+    <string name="msgDisplayed">new message</string>
+    <string name="msgsDisplayed">new messages</string>
+
+    <string name="successTitle">Success</string>
+    <string name="successMakeMessage">Message has been created and sent to the recipient(s).</string>
+    <string name="errorMessageTooLong">Unable to create message. Messages have a maximum length of 512 characters.</string>
+    <string name="invalidId">The ID provided is invalid.</string>
+    <string name="invalidIdCustomer">The ID provided is invalid. Please make sure the ID is a valid customer ID.</string>
+    <string name="invalidIdGeneral">The ID provided is invalid. Please make sure the ID is a valid ID.</string>
+
+    <string name="successInterestAdded">Success! Interest has been added to account with ID</string>
+    <string name="enterAccountIdHint">Enter Account ID</string>
+    <string name="enterAccountIdPrompt">Please enter a valid account ID</string>
+    <string name="addInterest">Add Interest</string>
+    <string name="exit">Exit</string>
+
+    <string name="confirm">Confirm</string>
+    <string name="msgLeaveTxt">These messages will be deleted after you exit this screen. Are you sure you want to leave?</string>
+
+    <string name="error">Error</string>
+    <string name="unableToCreateMessage">Unable to create message.</string>
+    <string name="messageError">There was a problem with loading the messages. You will now return the menu. (ERROR: userId = -1)</string>
+
+    <string name="youHave">You have</string>
+    <string name="newMessages">new messages.</string>
+    <string name="newMessage">new message.</string>
+
+
+    <string name="accountWithID">Account with ID</string>
+    <string name="hasBeenChangedAccType">has been changed from TFSA to SAVING account type.</string>
+
+    <string name="interestAdded">Interest has been added to account with ID</string>
+
+    <string name="incompleteInput">Please check that all fields complete with valid inputs.</string>
+    <string name="Error">Error</string>
+
+    <string name="Success">Success</string>
+
+    <string name="preventExitTellerTerminal">You are currently serving a customer! Please deauthenticate the current customer before exiting the terminal.</string>
+
+</resources>

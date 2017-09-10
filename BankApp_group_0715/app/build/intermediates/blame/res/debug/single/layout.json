@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_terminal_view_personalmessage.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\admin_terminal_view_personalmessage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_terminal_other_options_selection_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\admin_terminal_other_options_selection_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\teller_terminal_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\teller_terminal_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_general.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\login_general.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_info_display_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\user_info_display_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_terminal_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\admin_terminal_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\teller_home_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\teller_home_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\terminal_make_user_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\terminal_make_user_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_terminal_make_teller_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\admin_terminal_make_teller_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_teller_login.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\activity_teller_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\teller_make_message.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\teller_make_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\logout_and_back.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\logout_and_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customer_home_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\customer_home_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_customer_accounts_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\view_customer_accounts_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_terminal_make_admin_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\admin_terminal_make_admin_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_home_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\admin_home_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\logout.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_help_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\admin_help_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\deposit_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\deposit_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_customer_login.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\activity_customer_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\make_admin_first_run_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\make_admin_first_run_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\withdraw_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\withdraw_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_terminal_view_any_message.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\admin_terminal_view_any_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_interest_rates_first_run_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\choose_interest_rates_first_run_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_message_list_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\view_message_list_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_terminal_view_user_accounts_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\admin_terminal_view_user_accounts_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_terminal_view_all_users_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\admin_terminal_view_all_users_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\terminal_make_account_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\terminal_make_account_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_terminal_promote_teller_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\admin_terminal_promote_teller_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_terminal_make_user_selection_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\admin_terminal_make_user_selection_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_terminal_view_all_accounts_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\admin_terminal_view_all_accounts_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\make_message.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\make_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customer_help_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\customer_help_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin_login.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\activity_admin_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\teller_account_details_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\teller_account_details_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_terminal_view_selectedpersonal_messages.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\admin_terminal_view_selectedpersonal_messages.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_terminal_serialize_selection_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\admin_terminal_serialize_selection_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\first_run_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\first_run_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customer_account_details_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\customer_account_details_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\filter_user_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\filter_user_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_terminal_make_message.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\admin_terminal_make_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\filter_account_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\filter_account_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\teller_help_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\teller_help_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_info_display.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\user_info_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\filter_message_activity.xml",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\layout\\filter_message_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Alan\\.android\\build-cache\\2e031de8cbef28c676a3fcbd1b51bb90615a7221\\output\\res\\layout\\notification_template_media.xml"
+    }
+]

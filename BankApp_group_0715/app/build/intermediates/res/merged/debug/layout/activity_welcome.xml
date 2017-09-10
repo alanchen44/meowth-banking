@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.group_0715.bankapp_group_0715.startupactivity.WelcomeActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/meowth_banking"
+            android:id="@+id/bajiLogo"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:elevation="5dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textSize="20dp"
+            android:text="@string/select_user_type"
+            android:padding="10dp"
+            android:id="@+id/selectUserType"
+            android:elevation="5dp"/>
+
+        <Button
+            android:id="@+id/adminButton"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:layout_marginTop="9dip"
+            android:layout_gravity="center"
+            android:onClick="goToAdminPage"
+            android:text="@string/admin_word" />
+
+        <Button
+            android:id="@+id/tellerButton"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:textSize="20dp"
+            android:layout_gravity="center"
+            android:onClick="goToTellerPage"
+            android:text="@string/teller_word" />
+
+        <Button
+            android:id="@+id/customerButton"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:layout_gravity="center"
+            android:onClick="goToCustomerPage"
+            android:text="@string/customer_word" />
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft= "46dp"
+    android:paddingRight = "46dp"
+    android:paddingTop = "46dp"
+    android:paddingBottom = "46dp">
+
+    <TextView
+        android:id="@+id/textPassword"
+        android:layout_width="wrap_content"
+        android:layout_centerHorizontal = "true"
+        android:layout_height="wrap_content"
+        android:text="@string/userInputText"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/authentication"
+        android:elevation="5dp"
+        android:layout_marginTop="26dp"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textPassword"
+        android:layout_alignParentLeft = "true"
+        android:layout_alignParentStart = "true"
+        android:layout_alignParentRight = "true"
+        android:layout_alignParentEnd = "true"
+        android:layout_marginTop = "46dp"
+        android:hint="@string/userIdInput"
+        android:id="@+id/userId"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/userPasswordInput"
+        android:layout_below="@+id/userId"
+        android:layout_alignParentLeft = "true"
+        android:layout_alignParentStart = "true"
+        android:layout_alignParentRight = "true"
+        android:layout_alignParentEnd = "true"
+        android:layout_marginTop = "46dp"
+        android:inputType="textPassword"
+        android:id="@+id/userPassword"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop = "46dp"
+        android:text="@string/loginButton"
+        android:layout_below="@+id/userPassword"
+        android:onClick="submitLoginInfo"
+        android:id="@+id/loginButton"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_marginTop = "46dp"
+        android:layout_height="wrap_content"
+        android:text="@string/backButton"
+        android:layout_below="@+id/userPassword"
+        android:onClick="goBack"
+        android:layout_alignRight="@+id/userPassword"
+        android:id="@+id/backButton"/>
+
+</RelativeLayout>

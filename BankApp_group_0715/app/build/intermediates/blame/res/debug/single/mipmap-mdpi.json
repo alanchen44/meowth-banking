@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\info.png",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\mipmap-mdpi\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\error.png",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\mipmap-mdpi\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\authentication.png",
+        "source": "C:\\Users\\Alan\\Desktop\\BankApp_group_0715-20170808T211029Z-001\\BankApp_group_0715\\app\\src\\main\\res\\mipmap-mdpi\\authentication.png"
+    }
+]
